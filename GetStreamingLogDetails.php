@@ -17,7 +17,7 @@ use Aws\S3\Exception\S3Exception;
 class GetStreamingLogDetails extends AppComponent {
     /*
      *@author :   Aravind 
-     *@email  :   aravind@muvi.com
+     *@email  :   aravindgithub@gmail.com
      *@reason :   Audio data for playing :  
      *@functionality : actionGetStreamingLogDetails
      *@date   :   08-08-2018
