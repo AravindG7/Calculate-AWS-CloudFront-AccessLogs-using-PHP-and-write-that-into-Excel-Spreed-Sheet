@@ -1,0 +1,3 @@
+ftps://waws-prod-bn1-039.ftp.azurewebsites.windows.net/site/wwwroot
+charlestondev\$charlestondev
+htEu5h6JlgiYNdvdJpFsYP7gnuzCQBhMDqmoJtXEN8pcMCrTQPs97PM10PeX
