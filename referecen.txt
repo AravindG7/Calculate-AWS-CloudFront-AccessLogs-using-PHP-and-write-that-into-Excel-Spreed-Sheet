@@ -1,0 +1,5 @@
+---------------------------------------
+Geomatric Data Importing Best Site Liks
+---------------------------------------
+https://anthonydebarros.com/2018/06/17/analyzing-shapefile-data-with-postgresql/
+https://subscription.packtpub.com/book/big_data_and_business_intelligence/9781784391645/1/ch01lvl1sec6/connecting-to-external-data-sources-with-foreign-data-wrappers
